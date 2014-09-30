@@ -1,0 +1,6 @@
+The file "null" is missing or inaccessible, make sure the URL is valid or that the file has been added to your sketch and is readable.
+Exception in thread "Animation Thread" java.lang.NullPointerException
+	at Pollution_record_player.draw(Pollution_record_player.java:64)
+	at processing.core.PApplet.handleDraw(Unknown Source)
+	at processing.core.PApplet.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
